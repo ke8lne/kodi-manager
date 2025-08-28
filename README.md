@@ -17,12 +17,6 @@ This project is designed for setups where several Android TVs or Kodi clients ne
 
 ---
 
-## 🚀 Tech Stack
-
-- **Communication:** Kodi JSON-RPC over HTTP  
-
----
-
 ## 📌 Roadmap
 
 - [ ] Implement playback queue and controls  
